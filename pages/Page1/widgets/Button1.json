@@ -10,15 +10,15 @@
         "click",
         "submit"
     ],
-    "topRow": 25,
-    "bottomRow": 29,
+    "topRow": 9,
+    "bottomRow": 13,
     "parentRowSpace": 10,
     "type": "BUTTON_WIDGET",
     "hideCard": false,
     "mobileRightColumn": 34,
     "animateLoading": true,
     "parentColumnSpace": 12.578125,
-    "leftColumn": 18,
+    "leftColumn": 24,
     "dynamicBindingPathList": [
         {"key": "buttonColor"},
         {"key": "borderRadius"}
@@ -27,7 +27,7 @@
     "isDisabled": false,
     "key": "9k6xysh0i2",
     "isDeprecated": false,
-    "rightColumn": 34,
+    "rightColumn": 40,
     "isDefaultClickDisabled": true,
     "widgetId": "uz2t116o23",
     "minWidth": 120,
